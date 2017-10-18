@@ -1,0 +1,12 @@
+C:\Users\Aaron\Documents\Projects\hackerrank\CoinChangeProblem\obj\Debug\CoinChangeProblem.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Documents\Projects\hackerrank\CoinChangeProblem\bin\Debug\CoinChangeProblem.exe.config
+C:\Users\Aaron\Documents\Projects\hackerrank\CoinChangeProblem\bin\Debug\CoinChangeProblem.exe
+C:\Users\Aaron\Documents\Projects\hackerrank\CoinChangeProblem\bin\Debug\CoinChangeProblem.pdb
+C:\Users\Aaron\Documents\Projects\hackerrank\CoinChangeProblem\obj\Debug\CoinChangeProblem.exe
+C:\Users\Aaron\Documents\Projects\hackerrank\CoinChangeProblem\obj\Debug\CoinChangeProblem.pdb
+C:\Users\Aaron\Documents\Projects\HRChallenges\Dynamic Programming\bin\Debug\CoinChangeProblem.exe.config
+C:\Users\Aaron\Documents\Projects\HRChallenges\Dynamic Programming\bin\Debug\CoinChangeProblem.exe
+C:\Users\Aaron\Documents\Projects\HRChallenges\Dynamic Programming\bin\Debug\CoinChangeProblem.pdb
+C:\Users\Aaron\Documents\Projects\HRChallenges\Dynamic Programming\obj\Debug\CoinChangeProblem.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Documents\Projects\HRChallenges\Dynamic Programming\obj\Debug\CoinChangeProblem.exe
+C:\Users\Aaron\Documents\Projects\HRChallenges\Dynamic Programming\obj\Debug\CoinChangeProblem.pdb
